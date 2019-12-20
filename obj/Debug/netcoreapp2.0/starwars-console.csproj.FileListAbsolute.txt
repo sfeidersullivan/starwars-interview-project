@@ -1,0 +1,11 @@
+/Users/sfeidersullivan/Projects/starwars-console/bin/Debug/netcoreapp2.0/starwars-console.deps.json
+/Users/sfeidersullivan/Projects/starwars-console/bin/Debug/netcoreapp2.0/starwars-console.runtimeconfig.json
+/Users/sfeidersullivan/Projects/starwars-console/bin/Debug/netcoreapp2.0/starwars-console.runtimeconfig.dev.json
+/Users/sfeidersullivan/Projects/starwars-console/bin/Debug/netcoreapp2.0/starwars-console.dll
+/Users/sfeidersullivan/Projects/starwars-console/bin/Debug/netcoreapp2.0/starwars-console.pdb
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.csprojResolveAssemblyReference.cache
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.csproj.CoreCompileInputs.cache
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.AssemblyInfoInputs.cache
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.AssemblyInfo.cs
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.dll
+/Users/sfeidersullivan/Projects/starwars-console/obj/Debug/netcoreapp2.0/starwars-console.pdb
